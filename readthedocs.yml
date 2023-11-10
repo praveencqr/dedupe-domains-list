@@ -1,5 +1,5 @@
 version: 2
 build:
-  os: your_operating_system
+  os: ubuntu-20.04
 sphinx:
   configuration: docs/source/conf.py
