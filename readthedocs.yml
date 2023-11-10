@@ -10,7 +10,7 @@ python:
 
 build:
   image: latest
-  os: latest
+  os: ubuntu 20.04
   tools:
     - sphinx
 
