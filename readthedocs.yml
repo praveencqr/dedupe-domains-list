@@ -2,6 +2,6 @@ version: 2
 build:
   os: ubuntu-20.04
   tools:
-    - mv
+    - dedupe-domains-list
 sphinx:
   configuration: docs/source/conf.py
