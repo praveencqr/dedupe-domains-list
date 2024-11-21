@@ -31,10 +31,8 @@ The program doesn't require any additional packages to run. You only need to add
 
 About Me
 ========
-I'm a web developer who has built many free online tools such as `yt mp3 <https://ytmp3.page/>`__ and useful blogs like `yt1s <https://yt1s.live/>`__, `hammer of thor <https://hammerofthorreview.in/>`__.
+I'm a web developer who has built many free online tools such as `ytmp3 <https://ytmp3.ec/>`__ and `y2mate <https://y2matee.co/>`__,
 I find the most demanding tools online and build them from scratch. There are many tools available, but most of them spread viruses through ads. So, I created
 tools and allow users access them for safely.
 
 If you like my tools, please give me a thumbs up on my GitHub page. Thank you.
-
-If you like my tools, please give me thumbs up on my github page. Thank you.
