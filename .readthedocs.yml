@@ -12,5 +12,5 @@ build:
   image: latest
   os: ubuntu-20.04
   tools:
-    - sphinx
+    sphinx: "latest"
 
