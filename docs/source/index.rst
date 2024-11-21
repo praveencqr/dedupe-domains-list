@@ -2,7 +2,7 @@
 Duplicate Domains Filter
 ======================
 
-Link to `GitHub repo <https://github.com/praveencqr/duplicate-domains-filter>`__
+Link to `GitHub repo <https://github.com/praveencqr/dedupe-domains-list/>`__
 
 .. index:: Summary
 
@@ -31,7 +31,7 @@ The program doesn't require any additional packages to run. You only need to add
 
 About Me
 ========
-I'm a web developer who has built many free online tools such as `ytmp3 <https://ytmp3.ec/>`__ and `y2mate <https://y2matee.co/>`__,
+I'm a web developer who has built many free online tools such as `ytmp3 <https://ytmp3.ec/>`__.
 I find the most demanding tools online and build them from scratch. There are many tools available, but most of them spread viruses through ads. So, I created
 tools and allow users access them for safely.
 
